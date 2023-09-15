@@ -12,15 +12,18 @@ Extração:
 
 Escolha duas fontes de dados diferentes para filmes. Pode ser um arquivo CSV, uma API (por exemplo, a API do IMDB), ou até mesmo uma combinação de fontes.
 Extraia os dados brutos dessas fontes para o Python.
+
 Transformação:
 
 Limpe os dados, tratando valores ausentes e dados duplicados.
 Combine os dados de diferentes fontes, se aplicável.
 Realize algumas transformações nos dados, como calcular estatísticas básicas, criar novas colunas ou aplicar filtros para selecionar apenas os filmes de um determinado gênero ou período de tempo.
+
 Carga:
 
 Escolha um destino para os dados transformados. Isso pode ser um banco de dados SQL, um arquivo CSV ou até mesmo um DataFrame em memória, dependendo do seu nível de habilidade.
 Carregue os dados transformados no destino escolhido.
+
 Análise:
 
 Realize algumas análises simples dos dados, como criar gráficos para visualizar informações interessantes sobre os filmes.
