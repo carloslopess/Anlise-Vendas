@@ -1,5 +1,6 @@
 
 ## Análise de Vendas
+Projeto criado seguindo o desafio Explorando IA Generativa em um Pipeline de ETL com Python pela DIO no bootcamp Santander 2023.
 
 Este foi meu primeiro projeto de análise de dados para uma loja.
 
